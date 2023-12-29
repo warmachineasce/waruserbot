@@ -1,4 +1,4 @@
-FROM xAbhish3k/waruserbot:slim-buster
+FROM some-base-image:tag
 
 #clonning repo 
 RUN git clone https://github.com/xAbhish3k/waruserbot.git /root/userbot
